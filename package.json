@@ -1,0 +1,28 @@
+{
+  "name": "simple-redis",
+  "version": "0.0.1",
+  "description": "Simplify redis' usage. A tool & helper for redis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoukekestar/simple-redis.git"
+  },
+  "keywords": [
+    "redis",
+    "tool",
+    "helper"
+  ],
+  "author": "zhoukekestar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoukekestar/simple-redis/issues"
+  },
+  "homepage": "https://github.com/zhoukekestar/simple-redis#readme",
+  "dependencies": {
+    "redis": "^2.6.3",
+    "thunkify": "^2.1.2"
+  }
+}

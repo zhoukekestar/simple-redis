@@ -1,8 +1,3 @@
-# simple-redis
-Simplify redis' usage. A tool &amp; helper for redis.
-
-# Quick Start
-```js
 var client = require('./index.js')({
   host      : "127.0.0.1",
   namespace : "local_",
@@ -67,6 +62,3 @@ redis keys:
 []
 
 */
-
-
-```
